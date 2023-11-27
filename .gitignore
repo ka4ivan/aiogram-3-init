@@ -1,0 +1,5 @@
+.env
+.idea
+venv
+__pycache__
+app/http/client/commands/__pycache__
